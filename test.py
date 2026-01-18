@@ -1,4 +1,4 @@
-num = 6
+num = 7
 
 for i in range(num):
 	print(i)
